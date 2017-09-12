@@ -21,6 +21,9 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^2.2.0",
+    "mustache": "^2.3.0",
+    "node-sass": "^4.5.3",
+    "node-sass-json-importer": "^3.0.2",
     "require-from-string": "^1.2.1",
     "source-map-support": "^0.4.2"
   },
